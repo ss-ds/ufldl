@@ -1,0 +1,7 @@
+1. sampleIMAGES
+rows 27-46
+Added sampling (8*8)
+
+2. display_network
+rows 94,97
+Updated calling of imagesc fundction
